@@ -1,6 +1,6 @@
 ﻿namespace MyApi.Entities
 {
-    public class Goods_Type
+    public class GoodsType
     {
         public int Id { get; set; }
         public string name { get; set; }
