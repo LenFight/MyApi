@@ -1,4 +1,5 @@
 ﻿using System.Data.Entity;
+using MyApi.Entities;
 namespace MyApi
 {
     class DataBase : DbContext

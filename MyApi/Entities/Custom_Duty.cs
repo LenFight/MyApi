@@ -2,7 +2,7 @@
 {
     public class Custom_Duty
     {
-        public int Custom_DutyID { get; set; }
+        public int Id { get; set; }
 
         public Custom_Warehouses? Custom_Warehouses { get; set; }
 
